@@ -1,0 +1,60 @@
+Frequency of numbers:
+1: Ball 1 - 4 Ball 2 - 8 Ball 3 - 4 Ball 4 - 6 Ball 5 - 4 Total White - 26 as PB - 11
+2: Ball 1 - 4 Ball 2 - 10 Ball 3 - 4 Ball 4 - 4 Ball 5 - 7 Total White - 29 as PB - 7
+3: Ball 1 - 3 Ball 2 - 6 Ball 3 - 5 Ball 4 - 4 Ball 5 - 11 Total White - 29 as PB - 8
+4: Ball 1 - 4 Ball 2 - 4 Ball 3 - 3 Ball 4 - 6 Ball 5 - 6 Total White - 23 as PB - 6
+5: Ball 1 - 10 Ball 2 - 7 Ball 3 - 5 Ball 4 - 3 Ball 5 - 7 Total White - 32 as PB - 10
+6: Ball 1 - 5 Ball 2 - 7 Ball 3 - 4 Ball 4 - 5 Ball 5 - 4 Total White - 25 as PB - 8
+7: Ball 1 - 6 Ball 2 - 9 Ball 3 - 6 Ball 4 - 6 Ball 5 - 6 Total White - 33 as PB - 9
+8: Ball 1 - 6 Ball 2 - 10 Ball 3 - 7 Ball 4 - 4 Ball 5 - 6 Total White - 33 as PB - 4
+9: Ball 1 - 8 Ball 2 - 3 Ball 3 - 4 Ball 4 - 6 Ball 5 - 9 Total White - 30 as PB - 7
+10: Ball 1 - 6 Ball 2 - 5 Ball 3 - 5 Ball 4 - 5 Ball 5 - 9 Total White - 30 as PB - 10
+11: Ball 1 - 3 Ball 2 - 7 Ball 3 - 9 Ball 4 - 6 Ball 5 - 5 Total White - 30 as PB - 8
+12: Ball 1 - 6 Ball 2 - 5 Ball 3 - 5 Ball 4 - 4 Ball 5 - 6 Total White - 26 as PB - 7
+13: Ball 1 - 4 Ball 2 - 8 Ball 3 - 7 Ball 4 - 5 Ball 5 - 6 Total White - 30 as PB - 11
+14: Ball 1 - 8 Ball 2 - 6 Ball 3 - 8 Ball 4 - 9 Ball 5 - 3 Total White - 34 as PB - 11
+15: Ball 1 - 5 Ball 2 - 6 Ball 3 - 3 Ball 4 - 6 Ball 5 - 4 Total White - 24 as PB - 7
+16: Ball 1 - 1 Ball 2 - 7 Ball 3 - 8 Ball 4 - 3 Ball 5 - 5 Total White - 24 as PB - 12
+17: Ball 1 - 5 Ball 2 - 4 Ball 3 - 8 Ball 4 - 7 Ball 5 - 4 Total White - 28 as PB - 11
+18: Ball 1 - 3 Ball 2 - 6 Ball 3 - 3 Ball 4 - 5 Ball 5 - 5 Total White - 22 as PB - 11
+19: Ball 1 - 7 Ball 2 - 4 Ball 3 - 9 Ball 4 - 5 Ball 5 - 6 Total White - 31 as PB - 8
+20: Ball 1 - 4 Ball 2 - 5 Ball 3 - 3 Ball 4 - 6 Ball 5 - 3 Total White - 21 as PB - 13
+21: Ball 1 - 3 Ball 2 - 3 Ball 3 - 3 Ball 4 - 3 Ball 5 - 4 Total White - 16 as PB - 5
+22: Ball 1 - 8 Ball 2 - 5 Ball 3 - 3 Ball 4 - 4 Ball 5 - 6 Total White - 26 as PB - 9
+23: Ball 1 - 7 Ball 2 - 9 Ball 3 - 5 Ball 4 - 8 Ball 5 - 5 Total White - 34 as PB - 11
+24: Ball 1 - 5 Ball 2 - 5 Ball 3 - 4 Ball 4 - 8 Ball 5 - 4 Total White - 26 as PB - 9
+25: Ball 1 - 1 Ball 2 - 5 Ball 3 - 6 Ball 4 - 9 Ball 5 - 6 Total White - 27 as PB - 8
+26: Ball 1 - 6 Ball 2 - 3 Ball 3 - 10 Ball 4 - 6 Ball 5 - 7 Total White - 32 as PB - 9
+27: Ball 1 - 3 Ball 2 - 4 Ball 3 - 4 Ball 4 - 5 Ball 5 - 2 Total White - 18 as PB - 10
+28: Ball 1 - 3 Ball 2 - 4 Ball 3 - 12 Ball 4 - 6 Ball 5 - 9 Total White - 34 as PB - 9
+29: Ball 1 - 7 Ball 2 - 2 Ball 3 - 7 Ball 4 - 7 Ball 5 - 4 Total White - 27 as PB - 18
+30: Ball 1 - 3 Ball 2 - 7 Ball 3 - 3 Ball 4 - 3 Ball 5 - 8 Total White - 24 as PB - 5
+31: Ball 1 - 3 Ball 2 - 5 Ball 3 - 6 Ball 4 - 6 Ball 5 - 7 Total White - 27 as PB - 4
+32: Ball 1 - 5 Ball 2 - 3 Ball 3 - 6 Ball 4 - 7 Ball 5 - 4 Total White - 25 as PB - 10
+33: Ball 1 - 7 Ball 2 - 5 Ball 3 - 3 Ball 4 - 8 Ball 5 - 3 Total White - 26 as PB - 12
+34: Ball 1 - 7 Ball 2 - 7 Ball 3 - 2 Ball 4 - 5 Ball 5 - 5 Total White - 26 as PB - 8
+35: Ball 1 - 6 Ball 2 - 2 Ball 3 - 5 Ball 4 - 4 Ball 5 - 5 Total White - 22 as PB - 13
+36: Ball 1 - 7 Ball 2 - 5 Ball 3 - 7 Ball 4 - 7 Ball 5 - 6 Total White - 32
+37: Ball 1 - 6 Ball 2 - 5 Ball 3 - 3 Ball 4 - 2 Ball 5 - 6 Total White - 22
+38: Ball 1 - 6 Ball 2 - 3 Ball 3 - 4 Ball 4 - 8 Ball 5 - 2 Total White - 23
+39: Ball 1 - 3 Ball 2 - 7 Ball 3 - 3 Ball 4 - 9 Ball 5 - 8 Total White - 30
+40: Ball 1 - 7 Ball 2 - 4 Ball 3 - 5 Ball 4 - 4 Ball 5 - 6 Total White - 26
+41: Ball 1 - 6 Ball 2 - 4 Ball 3 - 2 Ball 4 - 6 Ball 5 - 6 Total White - 24
+42: Ball 1 - 4 Ball 2 - 5 Ball 3 - 8 Ball 4 - 2 Ball 5 - 4 Total White - 23
+43: Ball 1 - 5 Ball 2 - 9 Ball 3 - 5 Ball 4 - 3 Ball 5 - 1 Total White - 23
+44: Ball 1 - 6 Ball 2 - 3 Ball 3 - 5 Ball 4 - 7 Ball 5 - 6 Total White - 27
+45: Ball 1 - 5 Ball 2 - 6 Ball 3 - 6 Ball 4 - 5 Ball 5 - 6 Total White - 28
+46: Ball 1 - 6 Ball 2 - 4 Ball 3 - 7 Ball 4 - 8 Ball 5 - 1 Total White - 26
+47: Ball 1 - 9 Ball 2 - 2 Ball 3 - 2 Ball 4 - 6 Ball 5 - 2 Total White - 21
+48: Ball 1 - 6 Ball 2 - 5 Ball 3 - 7 Ball 4 - 5 Ball 5 - 5 Total White - 28
+49: Ball 1 - 9 Ball 2 - 5 Ball 3 - 6 Ball 4 - 4 Ball 5 - 10 Total White - 34
+50: Ball 1 - 4 Ball 2 - 4 Ball 3 - 3 Ball 4 - 5 Ball 5 - 5 Total White - 21
+51: Ball 1 - 3 Ball 2 - 4 Ball 3 - 6 Ball 4 - 4 Ball 5 - 7 Total White - 24
+52: Ball 1 - 4 Ball 2 - 7 Ball 3 - 4 Ball 4 - 6 Ball 5 - 5 Total White - 26
+53: Ball 1 - 0 Ball 2 - 8 Ball 3 - 8 Ball 4 - 7 Ball 5 - 2 Total White - 25
+54: Ball 1 - 10 Ball 2 - 8 Ball 3 - 6 Ball 4 - 3 Ball 5 - 8 Total White - 35
+55: Ball 1 - 12 Ball 2 - 3 Ball 3 - 6 Ball 4 - 7 Ball 5 - 5 Total White - 33
+56: Ball 1 - 7 Ball 2 - 6 Ball 3 - 5 Ball 4 - 5 Ball 5 - 7 Total White - 30
+57: Ball 1 - 6 Ball 2 - 6 Ball 3 - 2 Ball 4 - 3 Ball 5 - 9 Total White - 26
+58: Ball 1 - 10 Ball 2 - 5 Ball 3 - 8 Ball 4 - 2 Ball 5 - 2 Total White - 27
+59: Ball 1 - 2 Ball 2 - 5 Ball 3 - 12 Ball 4 - 7 Ball 5 - 5 Total White - 31

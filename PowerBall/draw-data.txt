@@ -1,0 +1,638 @@
+02/04/2015Numbers: 51 52 36 24 56 PowerBall 22
+ Sum of White Balls: 219 Sum Squared: 10313 Mean: 43 Variance: 213 Standard Deviation: 14.594519519326424
+01/31/2015Numbers: 16 5 50 11 26 PowerBall 34
+ Sum of White Balls: 108 Sum Squared: 3578 Mean: 21 Variance: 274 Standard Deviation: 16.55294535724685
+01/28/2015Numbers: 49 24 12 36 35 PowerBall 1
+ Sum of White Balls: 156 Sum Squared: 5642 Mean: 31 Variance: 167 Standard Deviation: 12.922847983320086
+01/24/2015Numbers: 19 16 20 33 29 PowerBall 10
+ Sum of White Balls: 117 Sum Squared: 2947 Mean: 23 Variance: 60 Standard Deviation: 7.745966692414834
+01/21/2015Numbers: 57 12 28 15 11 PowerBall 23
+ Sum of White Balls: 123 Sum Squared: 4523 Mean: 24 Variance: 328 Standard Deviation: 18.110770276274835
+01/17/2015Numbers: 15 27 23 36 16 PowerBall 9
+ Sum of White Balls: 117 Sum Squared: 3035 Mean: 23 Variance: 78 Standard Deviation: 8.831760866327848
+01/14/2015Numbers: 10 4 53 2 41 PowerBall 22
+ Sum of White Balls: 110 Sum Squared: 4610 Mean: 22 Variance: 438 Standard Deviation: 20.92844953645635
+01/10/2015Numbers: 19 9 29 2 28 PowerBall 19
+ Sum of White Balls: 87 Sum Squared: 2071 Mean: 17 Variance: 125 Standard Deviation: 11.180339887498949
+01/07/2015Numbers: 47 49 59 15 14 PowerBall 10
+ Sum of White Balls: 184 Sum Squared: 8512 Mean: 36 Variance: 406 Standard Deviation: 20.149441679609886
+01/03/2015Numbers: 4 43 46 55 18 PowerBall 25
+ Sum of White Balls: 166 Sum Squared: 7330 Mean: 33 Variance: 377 Standard Deviation: 19.4164878389476
+12/31/2014Numbers: 40 27 17 53 37 PowerBall 35
+ Sum of White Balls: 174 Sum Squared: 6796 Mean: 34 Variance: 203 Standard Deviation: 14.247806848775006
+12/27/2014Numbers: 36 14 10 11 7 PowerBall 15
+ Sum of White Balls: 78 Sum Squared: 1762 Mean: 15 Variance: 127 Standard Deviation: 11.269427669584644
+12/24/2014Numbers: 46 11 12 47 50 PowerBall 22
+ Sum of White Balls: 166 Sum Squared: 7090 Mean: 33 Variance: 329 Standard Deviation: 18.138357147217054
+12/20/2014Numbers: 19 15 56 31 14 PowerBall 5
+ Sum of White Balls: 135 Sum Squared: 4879 Mean: 27 Variance: 246 Standard Deviation: 15.684387141358123
+12/17/2014Numbers: 47 31 48 38 22 PowerBall 15
+ Sum of White Balls: 186 Sum Squared: 7402 Mean: 37 Variance: 111 Standard Deviation: 10.535653752852738
+12/13/2014Numbers: 5 13 43 55 28 PowerBall 33
+ Sum of White Balls: 144 Sum Squared: 5852 Mean: 28 Variance: 386 Standard Deviation: 19.6468827043885
+12/10/2014Numbers: 48 34 55 44 54 PowerBall 10
+ Sum of White Balls: 235 Sum Squared: 11337 Mean: 47 Variance: 58 Standard Deviation: 7.615773105863909
+12/06/2014Numbers: 43 22 49 15 12 PowerBall 14
+ Sum of White Balls: 141 Sum Squared: 5103 Mean: 28 Variance: 236 Standard Deviation: 15.362291495737216
+12/03/2014Numbers: 54 30 32 46 25 PowerBall 26
+ Sum of White Balls: 187 Sum Squared: 7581 Mean: 37 Variance: 147 Standard Deviation: 12.12435565298214
+11/29/2014Numbers: 13 30 24 42 48 PowerBall 27
+ Sum of White Balls: 157 Sum Squared: 5713 Mean: 31 Variance: 181 Standard Deviation: 13.45362404707371
+11/26/2014Numbers: 46 17 22 16 54 PowerBall 35
+ Sum of White Balls: 155 Sum Squared: 6061 Mean: 31 Variance: 251 Standard Deviation: 15.84297951775486
+11/22/2014Numbers: 54 53 23 57 49 PowerBall 35
+ Sum of White Balls: 236 Sum Squared: 11904 Mean: 47 Variance: 171 Standard Deviation: 13.076696830622021
+11/19/2014Numbers: 38 6 36 48 51 PowerBall 17
+ Sum of White Balls: 179 Sum Squared: 7681 Mean: 35 Variance: 311 Standard Deviation: 17.635192088548397
+11/15/2014Numbers: 35 16 33 51 13 PowerBall 28
+ Sum of White Balls: 148 Sum Squared: 5340 Mean: 29 Variance: 227 Standard Deviation: 15.066519173319364
+11/12/2014Numbers: 55 37 39 52 51 PowerBall 11
+ Sum of White Balls: 234 Sum Squared: 11220 Mean: 46 Variance: 128 Standard Deviation: 11.313708498984761
+11/08/2014Numbers: 9 33 19 38 54 PowerBall 15
+ Sum of White Balls: 153 Sum Squared: 5891 Mean: 30 Variance: 278 Standard Deviation: 16.673332000533065
+11/05/2014Numbers: 19 2 11 21 42 PowerBall 34
+ Sum of White Balls: 95 Sum Squared: 2691 Mean: 19 Variance: 177 Standard Deviation: 13.30413469565007
+11/01/2014Numbers: 1 38 25 13 3 PowerBall 17
+ Sum of White Balls: 80 Sum Squared: 2248 Mean: 16 Variance: 193 Standard Deviation: 13.892443989449804
+10/29/2014Numbers: 48 28 59 25 57 PowerBall 16
+ Sum of White Balls: 217 Sum Squared: 10443 Mean: 43 Variance: 239 Standard Deviation: 15.459624833740307
+10/25/2014Numbers: 54 57 51 6 10 PowerBall 12
+ Sum of White Balls: 178 Sum Squared: 8902 Mean: 35 Variance: 555 Standard Deviation: 23.558437978779494
+10/22/2014Numbers: 40 42 30 29 50 PowerBall 16
+ Sum of White Balls: 191 Sum Squared: 7605 Mean: 38 Variance: 77 Standard Deviation: 8.774964387392123
+10/18/2014Numbers: 36 20 54 27 26 PowerBall 19
+ Sum of White Balls: 163 Sum Squared: 6017 Mean: 32 Variance: 179 Standard Deviation: 13.379088160259652
+10/15/2014Numbers: 5 7 28 27 19 PowerBall 20
+ Sum of White Balls: 86 Sum Squared: 1948 Mean: 17 Variance: 100 Standard Deviation: 10.0
+10/11/2014Numbers: 37 39 38 19 10 PowerBall 28
+ Sum of White Balls: 143 Sum Squared: 4795 Mean: 28 Variance: 175 Standard Deviation: 13.228756555322953
+10/08/2014Numbers: 46 50 16 31 5 PowerBall 18
+ Sum of White Balls: 148 Sum Squared: 5858 Mean: 29 Variance: 330 Standard Deviation: 18.16590212458495
+10/04/2014Numbers: 13 33 18 24 25 PowerBall 31
+ Sum of White Balls: 113 Sum Squared: 2783 Mean: 22 Variance: 72 Standard Deviation: 8.48528137423857
+10/01/2014Numbers: 20 1 45 18 4 PowerBall 7
+ Sum of White Balls: 88 Sum Squared: 2766 Mean: 17 Variance: 264 Standard Deviation: 16.24807680927192
+09/27/2014Numbers: 54 11 52 35 2 PowerBall 13
+ Sum of White Balls: 154 Sum Squared: 6970 Mean: 30 Variance: 494 Standard Deviation: 22.22611077089287
+09/24/2014Numbers: 7 14 24 41 21 PowerBall 26
+ Sum of White Balls: 107 Sum Squared: 2943 Mean: 21 Variance: 147 Standard Deviation: 12.12435565298214
+09/20/2014Numbers: 23 22 30 39 37 PowerBall 16
+ Sum of White Balls: 151 Sum Squared: 4803 Mean: 30 Variance: 60 Standard Deviation: 7.745966692414834
+09/17/2014Numbers: 36 18 25 50 48 PowerBall 23
+ Sum of White Balls: 177 Sum Squared: 7049 Mean: 35 Variance: 184 Standard Deviation: 13.564659966250536
+09/13/2014Numbers: 37 6 1 53 16 PowerBall 27
+ Sum of White Balls: 113 Sum Squared: 4471 Mean: 22 Variance: 410 Standard Deviation: 20.248456731316587
+09/10/2014Numbers: 14 39 2 40 43 PowerBall 13
+ Sum of White Balls: 138 Sum Squared: 5170 Mean: 27 Variance: 305 Standard Deviation: 17.46424919657298
+09/06/2014Numbers: 29 43 31 50 9 PowerBall 18
+ Sum of White Balls: 162 Sum Squared: 6232 Mean: 32 Variance: 222 Standard Deviation: 14.89966442575134
+09/03/2014Numbers: 43 2 51 45 16 PowerBall 35
+ Sum of White Balls: 157 Sum Squared: 6735 Mean: 31 Variance: 386 Standard Deviation: 19.6468827043885
+08/30/2014Numbers: 5 52 28 59 31 PowerBall 27
+ Sum of White Balls: 175 Sum Squared: 7955 Mean: 35 Variance: 366 Standard Deviation: 19.131126469708992
+08/27/2014Numbers: 24 17 45 46 26 PowerBall 19
+ Sum of White Balls: 158 Sum Squared: 5682 Mean: 31 Variance: 175 Standard Deviation: 13.228756555322953
+08/23/2014Numbers: 52 28 36 32 35 PowerBall 31
+ Sum of White Balls: 183 Sum Squared: 7033 Mean: 36 Variance: 110 Standard Deviation: 10.488088481701515
+08/20/2014Numbers: 21 40 8 38 4 PowerBall 3
+ Sum of White Balls: 111 Sum Squared: 3565 Mean: 22 Variance: 229 Standard Deviation: 15.132745950421556
+08/16/2014Numbers: 7 8 17 59 48 PowerBall 9
+ Sum of White Balls: 139 Sum Squared: 6187 Mean: 27 Variance: 508 Standard Deviation: 22.538855339169288
+08/13/2014Numbers: 37 8 40 52 39 PowerBall 24
+ Sum of White Balls: 176 Sum Squared: 7258 Mean: 35 Variance: 226 Standard Deviation: 15.033296378372908
+08/09/2014Numbers: 34 12 31 51 3 PowerBall 24
+ Sum of White Balls: 131 Sum Squared: 4871 Mean: 26 Variance: 298 Standard Deviation: 17.26267650163207
+08/06/2014Numbers: 49 1 8 24 28 PowerBall 24
+ Sum of White Balls: 110 Sum Squared: 3826 Mean: 22 Variance: 281 Standard Deviation: 16.76305461424021
+08/02/2014Numbers: 12 46 44 47 26 PowerBall 29
+ Sum of White Balls: 175 Sum Squared: 7081 Mean: 35 Variance: 191 Standard Deviation: 13.820274961085254
+07/30/2014Numbers: 49 13 30 53 42 PowerBall 29
+ Sum of White Balls: 187 Sum Squared: 8043 Mean: 37 Variance: 239 Standard Deviation: 15.459624833740307
+07/26/2014Numbers: 38 39 28 24 30 PowerBall 16
+ Sum of White Balls: 159 Sum Squared: 5225 Mean: 31 Variance: 84 Standard Deviation: 9.16515138991168
+07/23/2014Numbers: 22 12 4 31 10 PowerBall 3
+ Sum of White Balls: 79 Sum Squared: 1705 Mean: 15 Variance: 116 Standard Deviation: 10.770329614269007
+07/19/2014Numbers: 10 53 17 25 45 PowerBall 9
+ Sum of White Balls: 150 Sum Squared: 5848 Mean: 30 Variance: 269 Standard Deviation: 16.401219466856727
+07/16/2014Numbers: 5 32 26 18 15 PowerBall 35
+ Sum of White Balls: 96 Sum Squared: 2274 Mean: 19 Variance: 93 Standard Deviation: 9.643650760992955
+07/12/2014Numbers: 23 7 2 3 51 PowerBall 26
+ Sum of White Balls: 86 Sum Squared: 3192 Mean: 17 Variance: 349 Standard Deviation: 18.681541692269406
+07/09/2014Numbers: 9 55 42 25 57 PowerBall 14
+ Sum of White Balls: 188 Sum Squared: 8744 Mean: 37 Variance: 379 Standard Deviation: 19.467922333931785
+07/05/2014Numbers: 34 58 24 36 57 PowerBall 11
+ Sum of White Balls: 209 Sum Squared: 9641 Mean: 41 Variance: 247 Standard Deviation: 15.716233645501712
+07/02/2014Numbers: 58 18 53 8 45 PowerBall 35
+ Sum of White Balls: 182 Sum Squared: 8586 Mean: 36 Variance: 421 Standard Deviation: 20.518284528683193
+06/28/2014Numbers: 56 8 12 43 34 PowerBall 9
+ Sum of White Balls: 153 Sum Squared: 6349 Mean: 30 Variance: 369 Standard Deviation: 19.209372712298546
+06/25/2014Numbers: 50 53 10 20 25 PowerBall 35
+ Sum of White Balls: 158 Sum Squared: 6434 Mean: 31 Variance: 325 Standard Deviation: 18.027756377319946
+06/21/2014Numbers: 41 6 54 5 37 PowerBall 26
+ Sum of White Balls: 143 Sum Squared: 6027 Mean: 28 Variance: 421 Standard Deviation: 20.518284528683193
+06/18/2014Numbers: 6 52 59 29 9 PowerBall 7
+ Sum of White Balls: 155 Sum Squared: 7143 Mean: 31 Variance: 467 Standard Deviation: 21.61018278497431
+06/14/2014Numbers: 33 54 42 9 45 PowerBall 30
+ Sum of White Balls: 183 Sum Squared: 7875 Mean: 36 Variance: 279 Standard Deviation: 16.703293088490067
+06/11/2014Numbers: 14 25 33 18 49 PowerBall 23
+ Sum of White Balls: 139 Sum Squared: 4635 Mean: 27 Variance: 198 Standard Deviation: 14.071247279470288
+06/07/2014Numbers: 58 30 35 28 59 PowerBall 15
+ Sum of White Balls: 210 Sum Squared: 9754 Mean: 42 Variance: 186 Standard Deviation: 13.638181696985855
+06/04/2014Numbers: 22 7 1 10 49 PowerBall 24
+ Sum of White Balls: 89 Sum Squared: 3035 Mean: 17 Variance: 318 Standard Deviation: 17.832554500127006
+05/31/2014Numbers: 34 15 48 27 31 PowerBall 1
+ Sum of White Balls: 155 Sum Squared: 5375 Mean: 31 Variance: 114 Standard Deviation: 10.677078252031311
+05/28/2014Numbers: 24 2 28 32 59 PowerBall 25
+ Sum of White Balls: 145 Sum Squared: 5869 Mean: 29 Variance: 332 Standard Deviation: 18.2208671582886
+05/24/2014Numbers: 55 15 49 16 28 PowerBall 18
+ Sum of White Balls: 163 Sum Squared: 6691 Mean: 32 Variance: 314 Standard Deviation: 17.72004514666935
+05/21/2014Numbers: 20 34 58 4 39 PowerBall 31
+ Sum of White Balls: 155 Sum Squared: 6457 Mean: 31 Variance: 330 Standard Deviation: 18.16590212458495
+05/17/2014Numbers: 32 23 47 39 49 PowerBall 22
+ Sum of White Balls: 190 Sum Squared: 7684 Mean: 38 Variance: 92 Standard Deviation: 9.591663046625438
+05/14/2014Numbers: 55 7 52 33 39 PowerBall 33
+ Sum of White Balls: 186 Sum Squared: 8388 Mean: 37 Variance: 308 Standard Deviation: 17.549928774784245
+05/10/2014Numbers: 41 47 55 31 4 PowerBall 1
+ Sum of White Balls: 178 Sum Squared: 7892 Mean: 35 Variance: 353 Standard Deviation: 18.788294228055936
+05/07/2014Numbers: 48 31 17 49 29 PowerBall 34
+ Sum of White Balls: 174 Sum Squared: 6796 Mean: 34 Variance: 203 Standard Deviation: 14.247806848775006
+05/03/2014Numbers: 15 5 46 49 16 PowerBall 26
+ Sum of White Balls: 131 Sum Squared: 5023 Mean: 26 Variance: 328 Standard Deviation: 18.110770276274835
+04/30/2014Numbers: 9 2 19 50 11 PowerBall 32
+ Sum of White Balls: 91 Sum Squared: 3067 Mean: 18 Variance: 289 Standard Deviation: 17.0
+04/26/2014Numbers: 30 3 22 7 33 PowerBall 20
+ Sum of White Balls: 95 Sum Squared: 2531 Mean: 19 Variance: 145 Standard Deviation: 12.041594578792296
+04/23/2014Numbers: 29 48 36 19 25 PowerBall 12
+ Sum of White Balls: 157 Sum Squared: 5427 Mean: 31 Variance: 124 Standard Deviation: 11.135528725660043
+04/19/2014Numbers: 35 6 51 5 29 PowerBall 21
+ Sum of White Balls: 126 Sum Squared: 4728 Mean: 25 Variance: 320 Standard Deviation: 17.88854381999832
+04/16/2014Numbers: 42 34 59 39 44 PowerBall 8
+ Sum of White Balls: 218 Sum Squared: 9858 Mean: 43 Variance: 122 Standard Deviation: 11.045361017187261
+04/12/2014Numbers: 26 45 14 55 54 PowerBall 20
+ Sum of White Balls: 194 Sum Squared: 8838 Mean: 38 Variance: 323 Standard Deviation: 17.97220075561143
+04/09/2014Numbers: 49 14 48 9 44 PowerBall 29
+ Sum of White Balls: 164 Sum Squared: 6918 Mean: 32 Variance: 359 Standard Deviation: 18.947295321496416
+04/05/2014Numbers: 26 11 21 34 33 PowerBall 29
+ Sum of White Balls: 125 Sum Squared: 3483 Mean: 25 Variance: 71 Standard Deviation: 8.426149773176359
+04/02/2014Numbers: 19 22 13 53 8 PowerBall 24
+ Sum of White Balls: 115 Sum Squared: 3887 Mean: 23 Variance: 248 Standard Deviation: 15.748015748023622
+03/29/2014Numbers: 3 12 27 38 2 PowerBall 17
+ Sum of White Balls: 82 Sum Squared: 2330 Mean: 16 Variance: 210 Standard Deviation: 14.491376746189438
+03/26/2014Numbers: 33 41 59 44 28 PowerBall 21
+ Sum of White Balls: 205 Sum Squared: 8971 Mean: 41 Variance: 113 Standard Deviation: 10.63014581273465
+03/22/2014Numbers: 55 13 28 58 31 PowerBall 15
+ Sum of White Balls: 185 Sum Squared: 8303 Mean: 37 Variance: 291 Standard Deviation: 17.05872210923198
+03/19/2014Numbers: 34 23 43 19 2 PowerBall 14
+ Sum of White Balls: 121 Sum Squared: 3899 Mean: 24 Variance: 203 Standard Deviation: 14.247806848775006
+03/15/2014Numbers: 34 5 51 2 58 PowerBall 9
+ Sum of White Balls: 150 Sum Squared: 7150 Mean: 30 Variance: 530 Standard Deviation: 23.021728866442675
+03/12/2014Numbers: 28 54 14 15 37 PowerBall 10
+ Sum of White Balls: 148 Sum Squared: 5490 Mean: 29 Variance: 257 Standard Deviation: 16.0312195418814
+03/08/2014Numbers: 14 24 32 41 10 PowerBall 30
+ Sum of White Balls: 121 Sum Squared: 3577 Mean: 24 Variance: 139 Standard Deviation: 11.789826122551595
+03/05/2014Numbers: 26 3 9 7 54 PowerBall 19
+ Sum of White Balls: 99 Sum Squared: 3731 Mean: 19 Variance: 385 Standard Deviation: 19.621416870348583
+03/01/2014Numbers: 3 8 25 47 30 PowerBall 13
+ Sum of White Balls: 113 Sum Squared: 3807 Mean: 22 Variance: 277 Standard Deviation: 16.64331697709324
+02/26/2014Numbers: 42 11 12 38 17 PowerBall 2
+ Sum of White Balls: 120 Sum Squared: 3762 Mean: 24 Variance: 176 Standard Deviation: 13.2664991614216
+02/22/2014Numbers: 13 2 54 14 3 PowerBall 4
+ Sum of White Balls: 86 Sum Squared: 3294 Mean: 17 Variance: 369 Standard Deviation: 19.209372712298546
+02/19/2014Numbers: 17 49 54 35 1 PowerBall 34
+ Sum of White Balls: 156 Sum Squared: 6832 Mean: 31 Variance: 405 Standard Deviation: 20.12461179749811
+02/15/2014Numbers: 9 23 2 14 21 PowerBall 3
+ Sum of White Balls: 69 Sum Squared: 1251 Mean: 13 Variance: 81 Standard Deviation: 9.0
+02/12/2014Numbers: 52 49 36 57 44 PowerBall 1
+ Sum of White Balls: 238 Sum Squared: 11586 Mean: 47 Variance: 108 Standard Deviation: 10.392304845413264
+02/08/2014Numbers: 54 37 34 25 24 PowerBall 29
+ Sum of White Balls: 174 Sum Squared: 6642 Mean: 34 Variance: 172 Standard Deviation: 13.114877048604
+02/05/2014Numbers: 8 57 17 59 32 PowerBall 24
+ Sum of White Balls: 173 Sum Squared: 8107 Mean: 34 Variance: 465 Standard Deviation: 21.563858652847824
+02/01/2014Numbers: 12 15 38 5 27 PowerBall 7
+ Sum of White Balls: 97 Sum Squared: 2567 Mean: 19 Variance: 152 Standard Deviation: 12.328828005937952
+01/29/2014Numbers: 47 23 11 28 32 PowerBall 20
+ Sum of White Balls: 141 Sum Squared: 4667 Mean: 28 Variance: 149 Standard Deviation: 12.206555615733702
+01/25/2014Numbers: 57 8 55 12 18 PowerBall 2
+ Sum of White Balls: 150 Sum Squared: 6806 Mean: 30 Variance: 461 Standard Deviation: 21.470910553583888
+01/22/2014Numbers: 55 2 7 1 9 PowerBall 29
+ Sum of White Balls: 74 Sum Squared: 3160 Mean: 14 Variance: 436 Standard Deviation: 20.8806130178211
+01/18/2014Numbers: 38 14 13 19 31 PowerBall 25
+ Sum of White Balls: 115 Sum Squared: 3131 Mean: 23 Variance: 97 Standard Deviation: 9.848857801796104
+01/15/2014Numbers: 29 8 9 7 24 PowerBall 25
+ Sum of White Balls: 77 Sum Squared: 1611 Mean: 15 Variance: 97 Standard Deviation: 9.848857801796104
+01/11/2014Numbers: 54 15 48 33 10 PowerBall 34
+ Sum of White Balls: 160 Sum Squared: 6634 Mean: 32 Variance: 302 Standard Deviation: 17.378147196982766
+01/08/2014Numbers: 39 28 58 47 10 PowerBall 22
+ Sum of White Balls: 182 Sum Squared: 7978 Mean: 36 Variance: 299 Standard Deviation: 17.291616465790582
+01/04/2014Numbers: 19 58 37 20 41 PowerBall 14
+ Sum of White Balls: 175 Sum Squared: 7175 Mean: 35 Variance: 210 Standard Deviation: 14.491376746189438
+01/01/2014Numbers: 52 48 15 24 40 PowerBall 23
+ Sum of White Balls: 179 Sum Squared: 7409 Mean: 35 Variance: 256 Standard Deviation: 16.0
+12/28/2013Numbers: 56 51 35 44 8 PowerBall 18
+ Sum of White Balls: 194 Sum Squared: 8962 Mean: 38 Variance: 348 Standard Deviation: 18.65475810617763
+12/25/2013Numbers: 38 56 28 39 23 PowerBall 32
+ Sum of White Balls: 184 Sum Squared: 7414 Mean: 36 Variance: 186 Standard Deviation: 13.638181696985855
+12/21/2013Numbers: 36 51 45 25 40 PowerBall 8
+ Sum of White Balls: 197 Sum Squared: 8147 Mean: 39 Variance: 108 Standard Deviation: 10.392304845413264
+12/18/2013Numbers: 39 7 40 24 37 PowerBall 1
+ Sum of White Balls: 147 Sum Squared: 5115 Mean: 29 Variance: 182 Standard Deviation: 13.490737563232042
+12/14/2013Numbers: 33 41 25 14 32 PowerBall 34
+ Sum of White Balls: 145 Sum Squared: 4615 Mean: 29 Variance: 82 Standard Deviation: 9.055385138137417
+12/11/2013Numbers: 10 18 19 1 13 PowerBall 27
+ Sum of White Balls: 61 Sum Squared: 955 Mean: 12 Variance: 47 Standard Deviation: 6.855654600401044
+12/07/2013Numbers: 45 13 48 32 20 PowerBall 17
+ Sum of White Balls: 158 Sum Squared: 5922 Mean: 31 Variance: 223 Standard Deviation: 14.933184523068078
+12/04/2013Numbers: 9 6 11 44 31 PowerBall 25
+ Sum of White Balls: 101 Sum Squared: 3135 Mean: 20 Variance: 227 Standard Deviation: 15.066519173319364
+11/30/2013Numbers: 26 5 45 44 57 PowerBall 29
+ Sum of White Balls: 177 Sum Squared: 7911 Mean: 35 Variance: 357 Standard Deviation: 18.894443627691185
+11/27/2013Numbers: 57 25 18 55 50 PowerBall 17
+ Sum of White Balls: 205 Sum Squared: 9723 Mean: 41 Variance: 263 Standard Deviation: 16.217274740226856
+11/23/2013Numbers: 12 52 55 43 5 PowerBall 10
+ Sum of White Balls: 167 Sum Squared: 7747 Mean: 33 Variance: 460 Standard Deviation: 21.447610589527216
+11/20/2013Numbers: 32 4 45 23 18 PowerBall 7
+ Sum of White Balls: 122 Sum Squared: 3918 Mean: 24 Variance: 207 Standard Deviation: 14.38749456993816
+11/16/2013Numbers: 29 37 59 10 44 PowerBall 10
+ Sum of White Balls: 179 Sum Squared: 7727 Mean: 35 Variance: 320 Standard Deviation: 17.88854381999832
+11/13/2013Numbers: 31 5 55 50 56 PowerBall 9
+ Sum of White Balls: 197 Sum Squared: 9647 Mean: 39 Variance: 408 Standard Deviation: 20.199009876724155
+11/09/2013Numbers: 37 56 3 49 9 PowerBall 32
+ Sum of White Balls: 154 Sum Squared: 6996 Mean: 30 Variance: 499 Standard Deviation: 22.338307903688676
+11/06/2013Numbers: 49 1 5 10 15 PowerBall 22
+ Sum of White Balls: 80 Sum Squared: 2752 Mean: 16 Variance: 294 Standard Deviation: 17.146428199482248
+11/02/2013Numbers: 27 40 13 23 24 PowerBall 17
+ Sum of White Balls: 127 Sum Squared: 3603 Mean: 25 Variance: 95 Standard Deviation: 9.746794344808963
+10/30/2013Numbers: 54 2 49 36 40 PowerBall 10
+ Sum of White Balls: 181 Sum Squared: 8217 Mean: 36 Variance: 347 Standard Deviation: 18.627936010197157
+10/26/2013Numbers: 56 6 4 34 49 PowerBall 29
+ Sum of White Balls: 149 Sum Squared: 6745 Mean: 29 Variance: 508 Standard Deviation: 22.538855339169288
+10/23/2013Numbers: 47 34 23 31 3 PowerBall 13
+ Sum of White Balls: 138 Sum Squared: 4864 Mean: 27 Variance: 243 Standard Deviation: 15.588457268119896
+10/19/2013Numbers: 33 9 56 54 57 PowerBall 5
+ Sum of White Balls: 209 Sum Squared: 10471 Mean: 41 Variance: 413 Standard Deviation: 20.322401432901575
+10/16/2013Numbers: 3 42 26 34 28 PowerBall 28
+ Sum of White Balls: 133 Sum Squared: 4389 Mean: 26 Variance: 201 Standard Deviation: 14.177446878757825
+10/12/2013Numbers: 10 58 26 57 8 PowerBall 4
+ Sum of White Balls: 159 Sum Squared: 7453 Mean: 31 Variance: 529 Standard Deviation: 23.0
+10/09/2013Numbers: 9 38 3 33 19 PowerBall 18
+ Sum of White Balls: 102 Sum Squared: 2984 Mean: 20 Variance: 196 Standard Deviation: 14.0
+10/05/2013Numbers: 11 39 40 17 12 PowerBall 5
+ Sum of White Balls: 119 Sum Squared: 3675 Mean: 23 Variance: 206 Standard Deviation: 14.352700094407323
+10/02/2013Numbers: 6 51 42 4 25 PowerBall 17
+ Sum of White Balls: 128 Sum Squared: 5042 Mean: 25 Variance: 383 Standard Deviation: 19.570385790780925
+09/28/2013Numbers: 47 53 14 52 54 PowerBall 5
+ Sum of White Balls: 220 Sum Squared: 10834 Mean: 44 Variance: 230 Standard Deviation: 15.165750888103101
+09/25/2013Numbers: 49 7 17 53 2 PowerBall 23
+ Sum of White Balls: 128 Sum Squared: 5552 Mean: 25 Variance: 485 Standard Deviation: 22.02271554554524
+09/21/2013Numbers: 58 54 45 17 12 PowerBall 13
+ Sum of White Balls: 186 Sum Squared: 8738 Mean: 37 Variance: 378 Standard Deviation: 19.44222209522358
+09/18/2013Numbers: 7 10 35 32 22 PowerBall 19
+ Sum of White Balls: 106 Sum Squared: 2882 Mean: 21 Variance: 135 Standard Deviation: 11.61895003862225
+09/14/2013Numbers: 1 25 44 17 37 PowerBall 20
+ Sum of White Balls: 124 Sum Squared: 4220 Mean: 24 Variance: 268 Standard Deviation: 16.3707055437449
+09/11/2013Numbers: 19 33 42 52 11 PowerBall 33
+ Sum of White Balls: 157 Sum Squared: 6039 Mean: 31 Variance: 246 Standard Deviation: 15.684387141358123
+09/07/2013Numbers: 2 22 19 45 26 PowerBall 24
+ Sum of White Balls: 114 Sum Squared: 3550 Mean: 22 Variance: 226 Standard Deviation: 15.033296378372908
+09/04/2013Numbers: 2 45 26 9 47 PowerBall 11
+ Sum of White Balls: 129 Sum Squared: 4995 Mean: 25 Variance: 374 Standard Deviation: 19.339079605813716
+08/31/2013Numbers: 40 25 7 56 2 PowerBall 20
+ Sum of White Balls: 130 Sum Squared: 5414 Mean: 26 Variance: 406 Standard Deviation: 20.149441679609886
+08/28/2013Numbers: 32 19 7 9 6 PowerBall 13
+ Sum of White Balls: 73 Sum Squared: 1551 Mean: 14 Variance: 114 Standard Deviation: 10.677078252031311
+08/24/2013Numbers: 45 17 59 12 25 PowerBall 19
+ Sum of White Balls: 158 Sum Squared: 6564 Mean: 31 Variance: 351 Standard Deviation: 18.734993995195193
+08/21/2013Numbers: 30 48 42 46 40 PowerBall 23
+ Sum of White Balls: 206 Sum Squared: 8684 Mean: 41 Variance: 55 Standard Deviation: 7.416198487095663
+08/17/2013Numbers: 18 54 56 21 46 PowerBall 23
+ Sum of White Balls: 195 Sum Squared: 8933 Mean: 39 Variance: 265 Standard Deviation: 16.278820596099706
+08/14/2013Numbers: 17 43 11 4 51 PowerBall 20
+ Sum of White Balls: 126 Sum Squared: 4876 Mean: 25 Variance: 350 Standard Deviation: 18.708286933869708
+08/10/2013Numbers: 37 58 14 4 12 PowerBall 13
+ Sum of White Balls: 125 Sum Squared: 5089 Mean: 25 Variance: 392 Standard Deviation: 19.79898987322333
+08/07/2013Numbers: 58 5 25 59 30 PowerBall 32
+ Sum of White Balls: 177 Sum Squared: 8395 Mean: 35 Variance: 454 Standard Deviation: 21.307275752662516
+08/03/2013Numbers: 24 36 21 45 42 PowerBall 15
+ Sum of White Balls: 168 Sum Squared: 6102 Mean: 33 Variance: 131 Standard Deviation: 11.445523142259598
+07/31/2013Numbers: 8 24 59 39 49 PowerBall 5
+ Sum of White Balls: 179 Sum Squared: 8043 Mean: 35 Variance: 383 Standard Deviation: 19.570385790780925
+07/27/2013Numbers: 58 53 40 23 9 PowerBall 6
+ Sum of White Balls: 183 Sum Squared: 8383 Mean: 36 Variance: 380 Standard Deviation: 19.493588689617926
+07/24/2013Numbers: 44 29 54 40 9 PowerBall 7
+ Sum of White Balls: 176 Sum Squared: 7374 Mean: 35 Variance: 249 Standard Deviation: 15.7797338380595
+07/20/2013Numbers: 14 27 58 25 38 PowerBall 6
+ Sum of White Balls: 162 Sum Squared: 6358 Mean: 32 Variance: 247 Standard Deviation: 15.716233645501712
+07/17/2013Numbers: 22 1 42 38 34 PowerBall 17
+ Sum of White Balls: 137 Sum Squared: 4849 Mean: 27 Variance: 240 Standard Deviation: 15.491933384829668
+07/13/2013Numbers: 8 37 2 35 22 PowerBall 6
+ Sum of White Balls: 104 Sum Squared: 3146 Mean: 20 Variance: 229 Standard Deviation: 15.132745950421556
+07/10/2013Numbers: 55 45 31 30 59 PowerBall 27
+ Sum of White Balls: 220 Sum Squared: 10392 Mean: 44 Variance: 142 Standard Deviation: 11.916375287812984
+07/06/2013Numbers: 52 2 36 35 13 PowerBall 11
+ Sum of White Balls: 138 Sum Squared: 5398 Mean: 27 Variance: 350 Standard Deviation: 18.708286933869708
+07/03/2013Numbers: 40 6 51 29 3 PowerBall 4
+ Sum of White Balls: 129 Sum Squared: 5087 Mean: 25 Variance: 392 Standard Deviation: 19.79898987322333
+06/29/2013Numbers: 28 8 56 53 30 PowerBall 16
+ Sum of White Balls: 175 Sum Squared: 7693 Mean: 35 Variance: 313 Standard Deviation: 17.69180601295413
+06/26/2013Numbers: 1 46 39 33 18 PowerBall 33
+ Sum of White Balls: 137 Sum Squared: 5051 Mean: 27 Variance: 281 Standard Deviation: 16.76305461424021
+06/22/2013Numbers: 33 57 19 23 13 PowerBall 28
+ Sum of White Balls: 145 Sum Squared: 5397 Mean: 29 Variance: 238 Standard Deviation: 15.427248620541512
+06/19/2013Numbers: 57 47 46 52 7 PowerBall 17
+ Sum of White Balls: 209 Sum Squared: 10327 Mean: 41 Variance: 384 Standard Deviation: 19.595917942265423
+06/15/2013Numbers: 48 55 28 40 36 PowerBall 1
+ Sum of White Balls: 207 Sum Squared: 9009 Mean: 41 Variance: 120 Standard Deviation: 10.954451150103322
+06/12/2013Numbers: 22 16 42 23 55 PowerBall 32
+ Sum of White Balls: 158 Sum Squared: 6058 Mean: 31 Variance: 250 Standard Deviation: 15.811388300841896
+06/08/2013Numbers: 2 26 11 32 22 PowerBall 19
+ Sum of White Balls: 93 Sum Squared: 2309 Mean: 18 Variance: 137 Standard Deviation: 11.704699910719626
+06/05/2013Numbers: 4 36 26 33 55 PowerBall 32
+ Sum of White Balls: 154 Sum Squared: 6102 Mean: 30 Variance: 320 Standard Deviation: 17.88854381999832
+06/01/2013Numbers: 33 53 59 22 28 PowerBall 14
+ Sum of White Balls: 195 Sum Squared: 8647 Mean: 39 Variance: 208 Standard Deviation: 14.422205101855956
+05/29/2013Numbers: 49 14 9 17 57 PowerBall 2
+ Sum of White Balls: 146 Sum Squared: 6216 Mean: 29 Variance: 402 Standard Deviation: 20.049937655763422
+05/25/2013Numbers: 27 21 19 6 2 PowerBall 25
+ Sum of White Balls: 75 Sum Squared: 1571 Mean: 15 Variance: 89 Standard Deviation: 9.433981132056603
+05/22/2013Numbers: 31 35 41 9 57 PowerBall 26
+ Sum of White Balls: 173 Sum Squared: 7197 Mean: 34 Variance: 283 Standard Deviation: 16.822603841260722
+05/18/2013Numbers: 22 10 13 14 52 PowerBall 11
+ Sum of White Balls: 111 Sum Squared: 3653 Mean: 22 Variance: 246 Standard Deviation: 15.684387141358123
+05/15/2013Numbers: 2 34 11 41 26 PowerBall 32
+ Sum of White Balls: 114 Sum Squared: 3638 Mean: 22 Variance: 243 Standard Deviation: 15.588457268119896
+05/11/2013Numbers: 6 23 19 43 13 PowerBall 16
+ Sum of White Balls: 104 Sum Squared: 2944 Mean: 20 Variance: 188 Standard Deviation: 13.711309200802088
+05/08/2013Numbers: 21 57 26 22 30 PowerBall 27
+ Sum of White Balls: 156 Sum Squared: 5750 Mean: 31 Variance: 189 Standard Deviation: 13.74772708486752
+05/04/2013Numbers: 26 36 40 7 12 PowerBall 17
+ Sum of White Balls: 121 Sum Squared: 3765 Mean: 24 Variance: 177 Standard Deviation: 13.30413469565007
+05/01/2013Numbers: 31 22 55 26 54 PowerBall 18
+ Sum of White Balls: 188 Sum Squared: 8062 Mean: 37 Variance: 243 Standard Deviation: 15.588457268119896
+04/27/2013Numbers: 55 54 48 23 3 PowerBall 5
+ Sum of White Balls: 183 Sum Squared: 8783 Mean: 36 Variance: 460 Standard Deviation: 21.447610589527216
+04/24/2013Numbers: 9 59 31 56 19 PowerBall 2
+ Sum of White Balls: 174 Sum Squared: 8020 Mean: 34 Variance: 448 Standard Deviation: 21.166010488516726
+04/20/2013Numbers: 6 39 8 30 48 PowerBall 20
+ Sum of White Balls: 131 Sum Squared: 4825 Mean: 26 Variance: 289 Standard Deviation: 17.0
+04/17/2013Numbers: 58 18 48 13 36 PowerBall 28
+ Sum of White Balls: 173 Sum Squared: 7457 Mean: 34 Variance: 335 Standard Deviation: 18.303005217723125
+04/13/2013Numbers: 10 57 31 12 56 PowerBall 33
+ Sum of White Balls: 166 Sum Squared: 7590 Mean: 33 Variance: 429 Standard Deviation: 20.71231517720798
+04/10/2013Numbers: 40 1 52 36 53 PowerBall 20
+ Sum of White Balls: 182 Sum Squared: 8410 Mean: 36 Variance: 386 Standard Deviation: 19.6468827043885
+04/06/2013Numbers: 39 29 4 8 7 PowerBall 24
+ Sum of White Balls: 87 Sum Squared: 2491 Mean: 17 Variance: 209 Standard Deviation: 14.45683229480096
+04/03/2013Numbers: 35 8 12 1 6 PowerBall 3
+ Sum of White Balls: 62 Sum Squared: 1470 Mean: 12 Variance: 150 Standard Deviation: 12.24744871391589
+03/30/2013Numbers: 23 46 11 26 55 PowerBall 27
+ Sum of White Balls: 161 Sum Squared: 6467 Mean: 32 Variance: 269 Standard Deviation: 16.401219466856727
+03/27/2013Numbers: 43 48 7 37 52 PowerBall 16
+ Sum of White Balls: 187 Sum Squared: 8275 Mean: 37 Variance: 286 Standard Deviation: 16.911534525287763
+03/23/2013Numbers: 29 53 52 17 31 PowerBall 31
+ Sum of White Balls: 182 Sum Squared: 7604 Mean: 36 Variance: 224 Standard Deviation: 14.966629547095765
+03/20/2013Numbers: 43 17 14 13 54 PowerBall 15
+ Sum of White Balls: 141 Sum Squared: 5419 Mean: 28 Variance: 299 Standard Deviation: 17.291616465790582
+03/16/2013Numbers: 44 53 7 21 3 PowerBall 16
+ Sum of White Balls: 128 Sum Squared: 5244 Mean: 25 Variance: 423 Standard Deviation: 20.566963801203133
+03/13/2013Numbers: 38 9 32 28 5 PowerBall 29
+ Sum of White Balls: 112 Sum Squared: 3358 Mean: 22 Variance: 187 Standard Deviation: 13.674794331177344
+03/09/2013Numbers: 46 52 37 10 40 PowerBall 12
+ Sum of White Balls: 185 Sum Squared: 7889 Mean: 37 Variance: 208 Standard Deviation: 14.422205101855956
+03/06/2013Numbers: 45 10 6 23 41 PowerBall 1
+ Sum of White Balls: 125 Sum Squared: 4371 Mean: 25 Variance: 249 Standard Deviation: 15.7797338380595
+03/02/2013Numbers: 56 13 8 41 3 PowerBall 16
+ Sum of White Balls: 121 Sum Squared: 5059 Mean: 24 Variance: 435 Standard Deviation: 20.85665361461421
+02/27/2013Numbers: 48 20 14 34 3 PowerBall 21
+ Sum of White Balls: 119 Sum Squared: 4065 Mean: 23 Variance: 284 Standard Deviation: 16.852299546352718
+02/23/2013Numbers: 41 31 39 2 5 PowerBall 29
+ Sum of White Balls: 118 Sum Squared: 4192 Mean: 23 Variance: 309 Standard Deviation: 17.578395831246947
+02/20/2013Numbers: 25 3 32 17 19 PowerBall 17
+ Sum of White Balls: 96 Sum Squared: 2308 Mean: 19 Variance: 100 Standard Deviation: 10.0
+02/16/2013Numbers: 58 16 15 46 50 PowerBall 29
+ Sum of White Balls: 185 Sum Squared: 8461 Mean: 37 Variance: 323 Standard Deviation: 17.97220075561143
+02/13/2013Numbers: 12 43 27 25 23 PowerBall 29
+ Sum of White Balls: 130 Sum Squared: 3876 Mean: 26 Variance: 99 Standard Deviation: 9.9498743710662
+02/09/2013Numbers: 58 36 16 6 5 PowerBall 3
+ Sum of White Balls: 121 Sum Squared: 4977 Mean: 24 Variance: 419 Standard Deviation: 20.46948949045872
+02/06/2013Numbers: 36 38 5 27 41 PowerBall 12
+ Sum of White Balls: 147 Sum Squared: 5175 Mean: 29 Variance: 194 Standard Deviation: 13.92838827718412
+02/02/2013Numbers: 41 33 16 40 11 PowerBall 34
+ Sum of White Balls: 141 Sum Squared: 4747 Mean: 28 Variance: 165 Standard Deviation: 12.84523257866513
+01/30/2013Numbers: 47 16 14 32 52 PowerBall 16
+ Sum of White Balls: 161 Sum Squared: 6389 Mean: 32 Variance: 253 Standard Deviation: 15.905973720586866
+01/26/2013Numbers: 22 49 41 26 3 PowerBall 18
+ Sum of White Balls: 141 Sum Squared: 5251 Mean: 28 Variance: 266 Standard Deviation: 16.30950643030009
+01/23/2013Numbers: 24 43 11 12 45 PowerBall 9
+ Sum of White Balls: 135 Sum Squared: 4715 Mean: 27 Variance: 214 Standard Deviation: 14.628738838327793
+01/19/2013Numbers: 29 8 28 34 38 PowerBall 35
+ Sum of White Balls: 137 Sum Squared: 4289 Mean: 27 Variance: 128 Standard Deviation: 11.313708498984761
+01/16/2013Numbers: 51 21 32 28 9 PowerBall 35
+ Sum of White Balls: 141 Sum Squared: 4931 Mean: 28 Variance: 202 Standard Deviation: 14.212670403551895
+01/12/2013Numbers: 47 21 23 14 10 PowerBall 7
+ Sum of White Balls: 115 Sum Squared: 3475 Mean: 23 Variance: 166 Standard Deviation: 12.884098726725126
+01/09/2013Numbers: 11 20 13 27 59 PowerBall 26
+ Sum of White Balls: 130 Sum Squared: 4900 Mean: 26 Variance: 304 Standard Deviation: 17.435595774162696
+01/05/2013Numbers: 30 49 54 26 51 PowerBall 25
+ Sum of White Balls: 210 Sum Squared: 9494 Mean: 42 Variance: 134 Standard Deviation: 11.575836902790225
+01/02/2013Numbers: 20 18 53 28 35 PowerBall 20
+ Sum of White Balls: 154 Sum Squared: 5542 Mean: 30 Variance: 208 Standard Deviation: 14.422205101855956
+12/29/2012Numbers: 55 52 46 50 36 PowerBall 14
+ Sum of White Balls: 239 Sum Squared: 11641 Mean: 47 Variance: 119 Standard Deviation: 10.908712114635714
+12/26/2012Numbers: 54 43 13 11 23 PowerBall 4
+ Sum of White Balls: 144 Sum Squared: 5584 Mean: 28 Variance: 332 Standard Deviation: 18.2208671582886
+12/22/2012Numbers: 18 44 35 39 1 PowerBall 11
+ Sum of White Balls: 137 Sum Squared: 5007 Mean: 27 Variance: 272 Standard Deviation: 16.492422502470642
+12/19/2012Numbers: 23 20 5 30 8 PowerBall 3
+ Sum of White Balls: 86 Sum Squared: 1918 Mean: 17 Variance: 94 Standard Deviation: 9.695359714832659
+12/15/2012Numbers: 40 23 44 55 15 PowerBall 14
+ Sum of White Balls: 177 Sum Squared: 7315 Mean: 35 Variance: 238 Standard Deviation: 15.427248620541512
+12/12/2012Numbers: 36 25 44 8 10 PowerBall 28
+ Sum of White Balls: 123 Sum Squared: 4021 Mean: 24 Variance: 228 Standard Deviation: 15.0996688705415
+12/08/2012Numbers: 23 40 53 26 7 PowerBall 21
+ Sum of White Balls: 149 Sum Squared: 5663 Mean: 29 Variance: 291 Standard Deviation: 17.05872210923198
+12/05/2012Numbers: 27 19 38 13 17 PowerBall 12
+ Sum of White Balls: 114 Sum Squared: 2992 Mean: 22 Variance: 114 Standard Deviation: 10.677078252031311
+12/01/2012Numbers: 46 10 3 19 36 PowerBall 3
+ Sum of White Balls: 114 Sum Squared: 3882 Mean: 22 Variance: 292 Standard Deviation: 17.08800749063506
+11/28/2012Numbers: 5 23 16 22 29 PowerBall 6
+ Sum of White Balls: 95 Sum Squared: 2135 Mean: 19 Variance: 66 Standard Deviation: 8.12403840463596
+11/24/2012Numbers: 22 32 37 44 50 PowerBall 34
+ Sum of White Balls: 185 Sum Squared: 7313 Mean: 37 Variance: 93 Standard Deviation: 9.643650760992955
+11/21/2012Numbers: 24 30 8 18 39 PowerBall 26
+ Sum of White Balls: 119 Sum Squared: 3385 Mean: 23 Variance: 148 Standard Deviation: 12.165525060596439
+11/17/2012Numbers: 15 59 27 58 3 PowerBall 20
+ Sum of White Balls: 162 Sum Squared: 7808 Mean: 32 Variance: 537 Standard Deviation: 23.173260452512935
+11/14/2012Numbers: 44 10 58 8 30 PowerBall 13
+ Sum of White Balls: 150 Sum Squared: 6364 Mean: 30 Variance: 372 Standard Deviation: 19.28730152198591
+11/10/2012Numbers: 55 32 50 54 42 PowerBall 32
+ Sum of White Balls: 233 Sum Squared: 11229 Mean: 46 Variance: 129 Standard Deviation: 11.357816691600547
+11/07/2012Numbers: 32 45 34 52 58 PowerBall 20
+ Sum of White Balls: 221 Sum Squared: 10273 Mean: 44 Variance: 118 Standard Deviation: 10.862780491200215
+11/03/2012Numbers: 54 4 7 9 30 PowerBall 25
+ Sum of White Balls: 104 Sum Squared: 3962 Mean: 20 Variance: 392 Standard Deviation: 19.79898987322333
+10/31/2012Numbers: 45 31 1 48 27 PowerBall 5
+ Sum of White Balls: 152 Sum Squared: 6020 Mean: 30 Variance: 304 Standard Deviation: 17.435595774162696
+10/27/2012Numbers: 34 56 36 32 22 PowerBall 33
+ Sum of White Balls: 180 Sum Squared: 7096 Mean: 36 Variance: 123 Standard Deviation: 11.090536506409418
+10/24/2012Numbers: 18 50 23 3 21 PowerBall 4
+ Sum of White Balls: 115 Sum Squared: 3803 Mean: 23 Variance: 231 Standard Deviation: 15.198684153570664
+10/20/2012Numbers: 4 28 31 44 21 PowerBall 10
+ Sum of White Balls: 128 Sum Squared: 4138 Mean: 25 Variance: 202 Standard Deviation: 14.212670403551895
+10/17/2012Numbers: 42 23 10 7 1 PowerBall 35
+ Sum of White Balls: 83 Sum Squared: 2443 Mean: 16 Variance: 232 Standard Deviation: 15.231546211727817
+10/13/2012Numbers: 5 2 26 25 49 PowerBall 18
+ Sum of White Balls: 107 Sum Squared: 3731 Mean: 21 Variance: 305 Standard Deviation: 17.46424919657298
+10/10/2012Numbers: 35 18 43 29 26 PowerBall 28
+ Sum of White Balls: 151 Sum Squared: 4915 Mean: 30 Variance: 83 Standard Deviation: 9.1104335791443
+10/06/2012Numbers: 36 59 26 15 34 PowerBall 35
+ Sum of White Balls: 170 Sum Squared: 6834 Mean: 34 Variance: 210 Standard Deviation: 14.491376746189438
+10/03/2012Numbers: 55 23 17 59 36 PowerBall 10
+ Sum of White Balls: 190 Sum Squared: 8620 Mean: 38 Variance: 280 Standard Deviation: 16.73320053068151
+09/29/2012Numbers: 57 14 29 18 28 PowerBall 8
+ Sum of White Balls: 146 Sum Squared: 5394 Mean: 29 Variance: 237 Standard Deviation: 15.394804318340652
+09/26/2012Numbers: 41 26 42 13 39 PowerBall 10
+ Sum of White Balls: 161 Sum Squared: 5811 Mean: 32 Variance: 138 Standard Deviation: 11.74734012447073
+09/22/2012Numbers: 40 42 18 16 2 PowerBall 33
+ Sum of White Balls: 118 Sum Squared: 3948 Mean: 23 Variance: 260 Standard Deviation: 16.1245154965971
+09/19/2012Numbers: 50 1 8 39 5 PowerBall 23
+ Sum of White Balls: 103 Sum Squared: 4111 Mean: 20 Variance: 422 Standard Deviation: 20.54263858417414
+09/15/2012Numbers: 43 26 3 20 48 PowerBall 1
+ Sum of White Balls: 140 Sum Squared: 5238 Mean: 28 Variance: 263 Standard Deviation: 16.217274740226856
+09/12/2012Numbers: 48 56 24 36 33 PowerBall 6
+ Sum of White Balls: 197 Sum Squared: 8401 Mean: 39 Variance: 159 Standard Deviation: 12.609520212918492
+09/08/2012Numbers: 34 44 20 48 6 PowerBall 29
+ Sum of White Balls: 152 Sum Squared: 5832 Mean: 30 Variance: 266 Standard Deviation: 16.30950643030009
+09/05/2012Numbers: 42 4 26 51 19 PowerBall 29
+ Sum of White Balls: 142 Sum Squared: 5418 Mean: 28 Variance: 299 Standard Deviation: 17.291616465790582
+09/01/2012Numbers: 8 44 21 11 49 PowerBall 22
+ Sum of White Balls: 133 Sum Squared: 4963 Mean: 26 Variance: 316 Standard Deviation: 17.776388834631177
+08/29/2012Numbers: 49 54 28 25 56 PowerBall 28
+ Sum of White Balls: 212 Sum Squared: 9862 Mean: 42 Variance: 208 Standard Deviation: 14.422205101855956
+08/25/2012Numbers: 7 20 6 1 49 PowerBall 23
+ Sum of White Balls: 83 Sum Squared: 2887 Mean: 16 Variance: 321 Standard Deviation: 17.916472867168917
+08/22/2012Numbers: 47 31 22 29 55 PowerBall 19
+ Sum of White Balls: 184 Sum Squared: 7520 Mean: 36 Variance: 208 Standard Deviation: 14.422205101855956
+08/18/2012Numbers: 55 41 26 14 59 PowerBall 1
+ Sum of White Balls: 195 Sum Squared: 9059 Mean: 39 Variance: 290 Standard Deviation: 17.029386365926403
+08/15/2012Numbers: 56 27 46 6 51 PowerBall 21
+ Sum of White Balls: 186 Sum Squared: 8618 Mean: 37 Variance: 354 Standard Deviation: 18.81488772222678
+08/11/2012Numbers: 51 13 46 39 4 PowerBall 1
+ Sum of White Balls: 153 Sum Squared: 6423 Mean: 30 Variance: 384 Standard Deviation: 19.595917942265423
+08/08/2012Numbers: 7 15 3 11 28 PowerBall 12
+ Sum of White Balls: 64 Sum Squared: 1188 Mean: 12 Variance: 93 Standard Deviation: 9.643650760992955
+08/04/2012Numbers: 55 30 53 48 19 PowerBall 18
+ Sum of White Balls: 205 Sum Squared: 9399 Mean: 41 Variance: 198 Standard Deviation: 14.071247279470288
+08/01/2012Numbers: 58 3 56 48 16 PowerBall 4
+ Sum of White Balls: 181 Sum Squared: 9069 Mean: 36 Variance: 517 Standard Deviation: 22.737634001804146
+07/28/2012Numbers: 6 50 5 36 13 PowerBall 13
+ Sum of White Balls: 110 Sum Squared: 4026 Mean: 22 Variance: 321 Standard Deviation: 17.916472867168917
+07/25/2012Numbers: 14 3 46 38 35 PowerBall 16
+ Sum of White Balls: 136 Sum Squared: 4990 Mean: 27 Variance: 269 Standard Deviation: 16.401219466856727
+07/21/2012Numbers: 9 54 38 56 31 PowerBall 20
+ Sum of White Balls: 188 Sum Squared: 8538 Mean: 37 Variance: 338 Standard Deviation: 18.384776310850235
+07/18/2012Numbers: 5 2 57 23 20 PowerBall 3
+ Sum of White Balls: 107 Sum Squared: 4207 Mean: 21 Variance: 400 Standard Deviation: 20.0
+07/14/2012Numbers: 4 46 16 37 32 PowerBall 13
+ Sum of White Balls: 135 Sum Squared: 4781 Mean: 27 Variance: 227 Standard Deviation: 15.066519173319364
+07/11/2012Numbers: 5 36 49 55 22 PowerBall 23
+ Sum of White Balls: 167 Sum Squared: 7231 Mean: 33 Variance: 357 Standard Deviation: 18.894443627691185
+07/07/2012Numbers: 5 3 29 59 39 PowerBall 29
+ Sum of White Balls: 135 Sum Squared: 5877 Mean: 27 Variance: 446 Standard Deviation: 21.118712081942874
+07/04/2012Numbers: 35 19 14 39 56 PowerBall 33
+ Sum of White Balls: 163 Sum Squared: 6439 Mean: 32 Variance: 263 Standard Deviation: 16.217274740226856
+06/30/2012Numbers: 20 7 15 41 44 PowerBall 22
+ Sum of White Balls: 127 Sum Squared: 4291 Mean: 25 Variance: 233 Standard Deviation: 15.264337522473747
+06/27/2012Numbers: 58 34 6 46 40 PowerBall 6
+ Sum of White Balls: 184 Sum Squared: 8272 Mean: 36 Variance: 358 Standard Deviation: 18.920887928424502
+06/23/2012Numbers: 44 1 53 3 41 PowerBall 30
+ Sum of White Balls: 142 Sum Squared: 6436 Mean: 28 Variance: 503 Standard Deviation: 22.427661492005804
+06/20/2012Numbers: 17 11 29 56 57 PowerBall 14
+ Sum of White Balls: 170 Sum Squared: 7636 Mean: 34 Variance: 371 Standard Deviation: 19.261360284258224
+06/16/2012Numbers: 14 16 27 15 8 PowerBall 26
+ Sum of White Balls: 80 Sum Squared: 1470 Mean: 16 Variance: 38 Standard Deviation: 6.164414002968976
+06/13/2012Numbers: 14 57 33 10 7 PowerBall 18
+ Sum of White Balls: 121 Sum Squared: 4683 Mean: 24 Variance: 360 Standard Deviation: 18.973665961010276
+06/09/2012Numbers: 56 45 57 22 18 PowerBall 27
+ Sum of White Balls: 198 Sum Squared: 9218 Mean: 39 Variance: 322 Standard Deviation: 17.944358444926362
+06/06/2012Numbers: 59 48 19 33 30 PowerBall 27
+ Sum of White Balls: 189 Sum Squared: 8135 Mean: 37 Variance: 258 Standard Deviation: 16.06237840420901
+06/02/2012Numbers: 17 45 10 29 9 PowerBall 33
+ Sum of White Balls: 110 Sum Squared: 3336 Mean: 22 Variance: 183 Standard Deviation: 13.527749258468683
+05/30/2012Numbers: 10 56 9 24 52 PowerBall 14
+ Sum of White Balls: 151 Sum Squared: 6597 Mean: 30 Variance: 419 Standard Deviation: 20.46948949045872
+05/26/2012Numbers: 49 59 13 41 14 PowerBall 14
+ Sum of White Balls: 176 Sum Squared: 7928 Mean: 35 Variance: 360 Standard Deviation: 18.973665961010276
+05/23/2012Numbers: 59 7 53 26 4 PowerBall 32
+ Sum of White Balls: 149 Sum Squared: 7031 Mean: 29 Variance: 565 Standard Deviation: 23.769728648009426
+05/19/2012Numbers: 46 13 8 51 35 PowerBall 30
+ Sum of White Balls: 153 Sum Squared: 6175 Mean: 30 Variance: 335 Standard Deviation: 18.303005217723125
+05/16/2012Numbers: 21 43 28 3 7 PowerBall 2
+ Sum of White Balls: 102 Sum Squared: 3132 Mean: 20 Variance: 226 Standard Deviation: 15.033296378372908
+05/12/2012Numbers: 35 24 58 53 10 PowerBall 22
+ Sum of White Balls: 180 Sum Squared: 8074 Mean: 36 Variance: 318 Standard Deviation: 17.832554500127006
+05/09/2012Numbers: 56 7 1 11 55 PowerBall 1
+ Sum of White Balls: 130 Sum Squared: 6332 Mean: 26 Variance: 590 Standard Deviation: 24.289915602982237
+05/05/2012Numbers: 12 59 44 20 9 PowerBall 23
+ Sum of White Balls: 144 Sum Squared: 6042 Mean: 28 Variance: 424 Standard Deviation: 20.591260281974
+05/02/2012Numbers: 7 33 50 38 8 PowerBall 29
+ Sum of White Balls: 136 Sum Squared: 5146 Mean: 27 Variance: 300 Standard Deviation: 17.320508075688775
+04/28/2012Numbers: 57 40 58 31 39 PowerBall 33
+ Sum of White Balls: 225 Sum Squared: 10695 Mean: 45 Variance: 114 Standard Deviation: 10.677078252031311
+04/25/2012Numbers: 29 43 25 4 34 PowerBall 29
+ Sum of White Balls: 135 Sum Squared: 4487 Mean: 27 Variance: 168 Standard Deviation: 12.96148139681572
+04/21/2012Numbers: 8 42 51 20 6 PowerBall 16
+ Sum of White Balls: 127 Sum Squared: 4865 Mean: 25 Variance: 348 Standard Deviation: 18.65475810617763
+04/18/2012Numbers: 22 39 49 46 20 PowerBall 29
+ Sum of White Balls: 176 Sum Squared: 6922 Mean: 35 Variance: 159 Standard Deviation: 12.609520212918492
+04/14/2012Numbers: 15 16 19 14 24 PowerBall 2
+ Sum of White Balls: 88 Sum Squared: 1614 Mean: 17 Variance: 33 Standard Deviation: 5.744562646538029
+04/11/2012Numbers: 44 42 16 47 23 PowerBall 2
+ Sum of White Balls: 172 Sum Squared: 6694 Mean: 34 Variance: 182 Standard Deviation: 13.490737563232042
+04/07/2012Numbers: 13 30 5 20 17 PowerBall 18
+ Sum of White Balls: 85 Sum Squared: 1783 Mean: 17 Variance: 67 Standard Deviation: 8.18535277187245
+04/04/2012Numbers: 33 24 49 45 1 PowerBall 6
+ Sum of White Balls: 152 Sum Squared: 6092 Mean: 30 Variance: 318 Standard Deviation: 17.832554500127006
+03/31/2012Numbers: 14 5 58 54 36 PowerBall 27
+ Sum of White Balls: 167 Sum Squared: 7797 Mean: 33 Variance: 470 Standard Deviation: 21.6794833886788
+03/28/2012Numbers: 50 58 16 29 11 PowerBall 33
+ Sum of White Balls: 164 Sum Squared: 7082 Mean: 32 Variance: 392 Standard Deviation: 19.79898987322333
+03/24/2012Numbers: 15 37 35 1 47 PowerBall 8
+ Sum of White Balls: 135 Sum Squared: 5029 Mean: 27 Variance: 276 Standard Deviation: 16.61324772583615
+03/21/2012Numbers: 32 43 53 55 56 PowerBall 6
+ Sum of White Balls: 239 Sum Squared: 11843 Mean: 47 Variance: 159 Standard Deviation: 12.609520212918492
+03/17/2012Numbers: 11 55 58 14 49 PowerBall 30
+ Sum of White Balls: 187 Sum Squared: 9107 Mean: 37 Variance: 452 Standard Deviation: 21.2602916254693
+03/14/2012Numbers: 1 8 59 46 41 PowerBall 24
+ Sum of White Balls: 155 Sum Squared: 7343 Mean: 31 Variance: 507 Standard Deviation: 22.516660498395403
+03/10/2012Numbers: 5 41 20 14 17 PowerBall 5
+ Sum of White Balls: 97 Sum Squared: 2591 Mean: 19 Variance: 157 Standard Deviation: 12.529964086141668
+03/07/2012Numbers: 45 35 47 46 12 PowerBall 12
+ Sum of White Balls: 185 Sum Squared: 7719 Mean: 37 Variance: 174 Standard Deviation: 13.19090595827292
+03/03/2012Numbers: 47 30 29 49 45 PowerBall 35
+ Sum of White Balls: 200 Sum Squared: 8376 Mean: 40 Variance: 75 Standard Deviation: 8.660254037844387
+02/29/2012Numbers: 26 1 11 4 23 PowerBall 14
+ Sum of White Balls: 65 Sum Squared: 1343 Mean: 13 Variance: 99 Standard Deviation: 9.9498743710662
+02/25/2012Numbers: 54 11 6 42 53 PowerBall 7
+ Sum of White Balls: 166 Sum Squared: 7646 Mean: 33 Variance: 440 Standard Deviation: 20.97617696340303
+02/22/2012Numbers: 17 39 16 7 51 PowerBall 32
+ Sum of White Balls: 130 Sum Squared: 4716 Mean: 26 Variance: 267 Standard Deviation: 16.34013463836819
+02/18/2012Numbers: 23 50 28 59 56 PowerBall 5
+ Sum of White Balls: 216 Sum Squared: 10430 Mean: 43 Variance: 237 Standard Deviation: 15.394804318340652
+02/15/2012Numbers: 12 11 32 56 52 PowerBall 11
+ Sum of White Balls: 163 Sum Squared: 7129 Mean: 32 Variance: 401 Standard Deviation: 20.024984394500787
+02/11/2012Numbers: 37 52 10 1 57 PowerBall 11
+ Sum of White Balls: 157 Sum Squared: 7423 Mean: 31 Variance: 523 Standard Deviation: 22.869193252058544
+02/08/2012Numbers: 38 51 17 28 39 PowerBall 33
+ Sum of White Balls: 173 Sum Squared: 6639 Mean: 34 Variance: 171 Standard Deviation: 13.076696830622021
+02/04/2012Numbers: 23 56 43 45 15 PowerBall 7
+ Sum of White Balls: 182 Sum Squared: 7764 Mean: 36 Variance: 256 Standard Deviation: 16.0
+02/01/2012Numbers: 8 13 59 17 34 PowerBall 35
+ Sum of White Balls: 131 Sum Squared: 5159 Mean: 26 Variance: 355 Standard Deviation: 18.841443681416774
+01/28/2012Numbers: 41 54 59 33 5 PowerBall 13
+ Sum of White Balls: 192 Sum Squared: 9192 Mean: 38 Variance: 394 Standard Deviation: 19.849433241279208
+01/25/2012Numbers: 28 19 29 47 4 PowerBall 5
+ Sum of White Balls: 127 Sum Squared: 4211 Mean: 25 Variance: 217 Standard Deviation: 14.730919862656235
+01/21/2012Numbers: 44 12 43 24 45 PowerBall 7
+ Sum of White Balls: 168 Sum Squared: 6530 Mean: 33 Variance: 217 Standard Deviation: 14.730919862656235
+01/18/2012Numbers: 50 34 29 6 44 PowerBall 28
+ Sum of White Balls: 163 Sum Squared: 6469 Mean: 32 Variance: 269 Standard Deviation: 16.401219466856727
