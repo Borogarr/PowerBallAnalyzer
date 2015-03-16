@@ -1,5 +1,6 @@
 import java.io.*;
 import java.util.Scanner;
+import java.util.ArrayList;
 
 public class PowerBallDriver {
 	
@@ -63,6 +64,14 @@ public class PowerBallDriver {
 			
 			power.printFrequencies();
 			
+			PowerBallGenerator pbg = new PowerBallGenerator();
+			
+			ArrayList<Integer> nums = new ArrayList<Integer>();
+			nums = pbg.draw();
+			System.out.println("Your numbers are: ");
+			for (int i = 0; i < nums.size(); i++) {
+				System.out.print("" + nums.get(i) + " ");
+			}
 			
 			
 			
